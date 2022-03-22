@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
+}
+nav{
+    /* background-color: blue; */
+}
+.heading{
+    background: url(images/jen4.png);
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.heading-content{
+    /* width: 400px; */
+    /* background-color: black;
+    opacity: 0.4; */
+    color: rgb(35, 153, 182);
+    /* background-color: rgba(255, 255, 255,0.6); */
+}
+.pizza-order h2::after{
+    height: 30px;
+    width: 20px;
+    position: absolute;
+    background-color: hsl(9, 80%, 27%);
+}
+.pizza-order h2{
+    border:  3px solid #800900;
+}
+footer{
+    background-color: #991908;
+}
+.lower-section{
+    background-color: rgb(17, 223, 250);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.min-h{
+    min-height: 100vh;
+}

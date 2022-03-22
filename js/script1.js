@@ -1,6 +1,4 @@
-
-        
-       const randomIndex = (max) => {
+ const randomIndex = (max) => {
         return Math.floor(Math.random() * max);
     }
     class Pizza {

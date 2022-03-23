@@ -9,7 +9,7 @@ nav{
     /* background-color: blue; */
 }
 .heading{
-    background: url(./images/jen5.png);
+    background: url(images/jen5.png);
     height: 90vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -30,10 +30,11 @@ nav{
     background-color: hsl(9, 80%, 27%);
 }
 .pizza-order h2{
+    background-color: aqua;
     border:  3px solid hsl(4, 100%, 25%);
 }
 footer{
-    background-color: #310b06;
+    background-color: #e62910;
 }
 .lower-section{
     background-color: rgb(17, 223, 250);

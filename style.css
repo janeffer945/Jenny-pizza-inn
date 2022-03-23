@@ -5,9 +5,9 @@
     scroll-behavior: smooth;
     scroll-padding-top: 60px;
 }
-nav{
+/* nav{
     /* background-color: blue; */
-}
+
 .heading{
     background: url(images/jen5.png);
     height: 90vh;
@@ -20,7 +20,7 @@ nav{
     /* width: 400px; */
     /* background-color: black;
     opacity: 0.4; */
-    color: rgb(35, 153, 182);
+    color: rgb(7, 173, 214);
     /* background-color: rgba(255, 255, 255,0.6); */
 }
 .pizza-order h2::after{
